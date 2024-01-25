@@ -1,0 +1,44 @@
+.navbar-bg-color{
+    background-color: rgb(194, 8, 85);
+}
+.contact{
+    background-color: rgb(194, 8, 85);
+}
+.bg-image{
+    background-image: url(../assests/Inequality+F.jpg);
+    height: 900px;
+    width: 100%;
+    background-attachment: fixed;
+}
+.bg-image-text{
+    padding-top: 110vh;
+}
+.learn-more{
+    border: none;
+    background-color: rgb(194, 8, 85);
+    color: white;
+    height: 45px;
+    border-radius: 7px;
+    margin-left: 50%;
+}
+.learn-more:hover{
+    background-color: rgb(112, 5, 49) ;
+}
+.card-image{
+    height: 210px;
+    width: 269px;
+}
+.card-width{
+    width: 270px;
+    height: 500px;
+}
+.join{
+    padding-top: 100px;
+    
+}
+.about-bg{
+    background-color: gray;
+}
+.contact-form{
+    background-color: rgb(180, 27, 85);
+}
