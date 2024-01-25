@@ -1,0 +1,96 @@
+body{
+    background: linear-gradient(rgb(29, 143, 196) 5%,rgb(7, 53, 206)97%) no-repeat;
+}
+.down{
+    padding-top: 20px;
+}
+.top-container{
+    background-color: rgb(18, 44, 160);
+}
+.form-container{
+    border-radius: 5px;
+}
+.push{
+    margin-left: auto;
+}
+#from{
+    width: 260px;
+    outline: none;
+    height: 47px;
+    border-radius: 5px;
+}
+#from:hover{
+    border-color: black;
+}
+.right-left-arrow{
+    margin-top: 18px;
+    font-style: normal;
+}
+#to{
+    width: 260px;
+    outline: none;
+    height: 47px;
+    border-radius: 5px;
+}
+#to:hover{
+    border-color: black;
+}
+#date{
+    width: 260px;
+    outline: none;
+    height: 47px;
+    border-radius: 5px;
+}
+#date:hover{
+    border-color: black;
+}
+#search{
+    outline: none;
+    width: 200px;
+    height: 47px;
+    border-radius: 5px;
+    background-color: rgb(0, 0, 114);
+    color: white;
+}
+.container-height{
+    height: 120px;
+}
+.container-image{
+   margin-top: 40px;
+}
+.offer-border{
+    border-radius: 7px;
+}
+hr{
+    border: 1px solid white;
+}
+.card-width{
+    width: 270px;
+}
+.card-height{
+    height: 330px;
+}
+.card-image{
+    height: 210px;
+    width: 269px;
+}
+.card-ml{
+    margin-left: 100px !important;
+}
+.detail-bg{
+    background-color:rgb(16, 59, 177) ;
+}
+.detail-pl{
+    padding-left: 290px;
+}
+.indigo-alert{
+    border: groove;
+    border-color: white;
+}
+.whatsapp{
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 180px;
+}
